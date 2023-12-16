@@ -6,6 +6,7 @@ Bu proje, avize satışı yapmak için bir ön yüz web sayfası oluşturmayı a
 
 - **Ürünler**: Web sayfanızda sergilediğiniz avize birimleri hakkında bilgi.
 - **Hakkımızda**: Firmanızın kısa bir tanımı ve tarihçesi.
+- **Birimlerimiz**: Birimlerimiz hakkında bilgiler.
 - **Misyon ve Vizyon**: Şirketinizin misyonu ve vizyonu.
 - **İletişim**: Müşterilere ulaşma yöntemleri.
 - **Admin Paneli**: Siteyi düzenleme işlemeleri.
